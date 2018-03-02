@@ -5,4 +5,4 @@
 效果图:
 
 ![image](https://github.com/majunm/ShoushiMima/tree/master/images/gesture_password_1.gif)
-![image](https://github.com/majunm/ShoushiMima/tree/master/images/gesture_password_2.gif)
+![image](https://github.com/majunm/ShoushiMima/raw/master/images/gesture_password_2.gif)

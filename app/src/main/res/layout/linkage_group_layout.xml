@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:fitsSystemWindows="true"
+    tools:parentTag="android.widget.LinearLayout"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:fitsSystemWindows="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ss.com.shoushimima.LinkageView style="@style/Linkage_Style" />
+
+        <ss.com.shoushimima.LinkageView
+            style="@style/Linkage_Style"
+            android:layout_marginLeft="@dimen/linkage_magin" />
+
+        <ss.com.shoushimima.LinkageView
+            style="@style/Linkage_Style"
+            android:layout_marginLeft="@dimen/linkage_magin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/linkage_magin_top"
+        android:baselineAligned="false"
+        android:fitsSystemWindows="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ss.com.shoushimima.LinkageView style="@style/Linkage_Style" />
+
+        <ss.com.shoushimima.LinkageView
+            style="@style/Linkage_Style"
+            android:layout_marginLeft="@dimen/linkage_magin" />
+
+        <ss.com.shoushimima.LinkageView
+            style="@style/Linkage_Style"
+            android:layout_marginLeft="@dimen/linkage_magin" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/linkage_magin_top"
+        android:baselineAligned="false"
+        android:fitsSystemWindows="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ss.com.shoushimima.LinkageView style="@style/Linkage_Style" />
+
+        <ss.com.shoushimima.LinkageView
+            style="@style/Linkage_Style"
+            android:layout_marginLeft="@dimen/linkage_magin" />
+
+        <ss.com.shoushimima.LinkageView
+            style="@style/Linkage_Style"
+            android:layout_marginLeft="@dimen/linkage_magin" />
+    </LinearLayout>
+</merge>

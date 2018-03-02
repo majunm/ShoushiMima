@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="Linkage_Style">
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/linkage_width</item>
+        <item name="android:layout_height">@dimen/linkage_width</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+    </style>
+    <!--<style name="icon_style_common_padding">-->
+        <!--<item name="android:paddingLeft">@dimen/dp_5</item>-->
+        <!--<item name="android:paddingRight">@dimen/dp_5</item>-->
+        <!--<item name="android:paddingTop">@dimen/dp_8</item>-->
+        <!--<item name="android:paddingBottom">@dimen/dp_8</item>-->
+    <!--</style>-->
+</resources>

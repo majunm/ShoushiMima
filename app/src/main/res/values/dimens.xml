@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="small_icon_radius">25px</dimen>
+    <dimen name="linkage_width">12dp</dimen>
+    <!--24px|8px|8px-->
+    <dimen name="linkage_magin">4dp</dimen>
+    <dimen name="linkage_magin_top">@dimen/linkage_magin</dimen>
+</resources>

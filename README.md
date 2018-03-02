@@ -6,3 +6,7 @@
 
 ![image](https://github.com/majunm/ShoushiMima/raw/master/images/gesture_password_1.gif)
 ![image](https://github.com/majunm/ShoushiMima/raw/master/images/gesture_password_2.gif)
+
+有兴趣可以使用这个
+
+[手势识别库](https://github.com/ihsg/PatternLocker)

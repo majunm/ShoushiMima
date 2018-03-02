@@ -9,4 +9,4 @@
 
 有兴趣可以使用这个
 
-[手势识别库](https://github.com/ihsg/PatternLocker)
+[手势密码库](https://github.com/ihsg/PatternLocker)
